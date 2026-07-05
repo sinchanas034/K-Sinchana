@@ -1,2 +1,3 @@
 # K-Sinchana
-This is first git hub account
+This is first github profile
+
