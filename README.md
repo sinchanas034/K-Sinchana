@@ -1,3 +1,5 @@
 # K-Sinchana
-This is first github profile
+This is first github Repos
+<br>
+Author:K Sinchana
 
